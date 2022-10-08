@@ -20,4 +20,4 @@ npm run test --targets=rust
 
 After that, you should see the logging information after Rust runs through all of the tests.  If there was an error, then it should exit through the tests and show it to you.
 
-Now that you have ensured that all of the tests are passing, you send a pull request to the DTNB repository.  We have a custom GitHub Actions setup which will run the tests for the libraries that you have changed in your PR and check if the code works on various versions of the language and on different operating systems.  When the GitHub Actions (hopefully) pass, we can review your code and pull it into the DTNB repository.
+Now that you have ensured that all of the tests are passing, you send a pull request to the DTNB repository.  We have a custom GitHub Actions setup which will run the tests for the libraries that you have changed in your PR and check if the code works on various versions of the language and on different operating systems.  When the GitHub Actions (hopefully) pass, we can review your code and pull it into the NLINK-SECURE repository.
