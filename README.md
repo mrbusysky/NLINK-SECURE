@@ -1,7 +1,10 @@
 # DLEAP
-LEAPCHAIN Blockchain Library Suite to connect to the blockchain from many languages.
-
-Join our discord: https://discord.gg/Hdv9aXhvJz
+Security MONOREPO Features.
+* Wallet creation
+* Signing method
+* Verify keys
+* Add encrypt/decrypt method for data storage
+* Add mnemonic phrase methods
 
 ## Project Layout
 
